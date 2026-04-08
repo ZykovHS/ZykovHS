@@ -1,12 +1,12 @@
 # Zykov | Systems & Security Tooling Developer
 
-I am a self taught developer focused on building low-level utilities, automation scripts, and security focused tools. I specialize in creating high performance software that interacts directly with systems and networks to automate complex manual processes.
+I am a self taught developer focused on building automation scripts, and security focused tools. I specialize in creating high performance software that interacts directly with systems and networks to automate complex manual processes.
 
 ---
 
 ## Technical Expertise
 
-I focus on writing efficient, logic-driven code for resource-constrained environments. I prefer using a multi-language approach to leverage the specific performance strengths of different systems.
+I focus on writing efficient, logic driven code for resource constrained environments. I prefer using a multi language approach to leverage the specific performance strengths of different systems.
 
 * **Languages:** Python, Go, Haskell, C++, Node.js
 * **Tooling & Automation:** CLI Utility Development, System Scripting, and Process Automation
